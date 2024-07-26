@@ -7,7 +7,7 @@ import StudentCourses from "./components/StudentCourses";
 const App = () => {
   return (
     <div>
-      <h1>LMS Example with Zustand</h1>
+      <h1>LMS Example with shareef</h1>
       <AddCourse />
       <AddStudent />
       <EnrollStudent />
