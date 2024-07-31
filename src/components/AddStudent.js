@@ -19,7 +19,7 @@ const AddStudent = () => {
         onChange={(e) => setName(e.target.value)}
         placeholder="Student Name"
       />
-      <button onClick={handleSubmit}>Add Student</button>
+      <button onClick={handleSubmit}>Add Anusha</button>
     </div>
   );
 };
