@@ -19,6 +19,8 @@ const AddCourse = () => {
         onChange={(e) => setName(e.target.value)}
         placeholder="Course Name"
       />
+      <button>durga</button>
+      <button>jdkjd</button>
       <button onClick={handleSubmit}>Add Course</button>
     </div>
   );
