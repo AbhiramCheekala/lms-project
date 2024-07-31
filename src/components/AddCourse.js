@@ -20,6 +20,7 @@ const AddCourse = () => {
         placeholder="Course Name"
       />
       <button>durga</button>
+      <button>jdkjd</button>
       <button onClick={handleSubmit}>Add Course</button>
     </div>
   );
