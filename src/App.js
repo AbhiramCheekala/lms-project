@@ -29,7 +29,7 @@ const App = () => {
       <input type ="text" onChange={(e)=> setName(e.target.value)} value={name}/>
     <h1>my name is {name} and my prev name is {prevName.current}</h1>
     <div>
-      My Changes
+      My Name is Prathyusha
     </div>
     </div>
 
