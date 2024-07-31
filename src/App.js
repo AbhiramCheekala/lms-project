@@ -18,7 +18,7 @@ const App = () => {
   return (
     <>
     <div>
-      <h1>LMS Example with shareef</h1>
+      <h1>LMS Example with Manikanta</h1>
       <AddCourse />
       <AddStudent />
       <EnrollStudent />
